@@ -1,0 +1,78 @@
+[
+  {
+    "slug": "dimension-breaker",
+    "effects": [
+      {
+        "type": "duration",
+        "amount": 10
+      },
+      {
+        "type": "mineral",
+        "amount": 50
+      },
+      {
+        "type": "luck",
+        "amount": 48
+      }
+    ]
+  },
+  {
+    "slug": "energenesis",
+    "effects": [
+      {
+        "type": "experience",
+        "amount": 10
+      },
+      {
+        "type": "plant",
+        "amount": 50
+      },
+      {
+        "type": "luck",
+        "amount": 48
+      }
+    ]
+  },
+  {
+    "slug": "physical-augmenter",
+    "effects": [
+      {
+        "type": "efficiency",
+        "amount": 20
+      },
+      {
+        "type": "animal",
+        "amount": 50
+      },
+      {
+        "type": "luck",
+        "amount": 48
+      }
+    ]
+  },
+  {
+    "slug": "terraformer",
+    "effects": [
+      {
+        "type": "gold",
+        "amount": 10
+      },
+      {
+        "type": "animal",
+        "amount": 15
+      },
+      {
+        "type": "plant",
+        "amount": 15
+      },
+      {
+        "type": "mineral",
+        "amount": 15
+      },
+      {
+        "type": "luck",
+        "amount": 48
+      }
+    ]
+  }
+]

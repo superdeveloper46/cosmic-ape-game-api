@@ -1,0 +1,19 @@
+﻿module.exports = `Product_Name,Type,Quantity,Currency,Cost,Limit_Type,Limit
+Epic Key,Resource,1,Cosmic,48,Monthly,1
+Epic Experience Relic,Resource,1,Cosmic,1,Monthly,1
+Epic Treasure Chest,Resource,1,Cosmic,1,Monthly,1
+Ascension,Currency,5,Cosmic,1,NO_Limit,0
+Common Key,Resource,1,Salvage,250,Weekly,250
+Legendary Hammer,Resource,1,Salvage,900,Weekly,900
+Epic Hammer,Resource,1,Salvage,500,Weekly,500
+Rare Hammer,Resource,1,Salvage,250,Weekly,250
+Uncommon Hammer,Resource,1,Salvage,150,Weekly,150
+Common Experience Relic,Resource,1,Gold,1500,Weekly,5
+Uncommon Experience Relic,Resource,1,Gold,2500,Weekly,3
+Ironwood,Resource,1,Gold,1000,Weekly,5
+Pearlescent Quartz,Resource,1,Gold,1000,Weekly,5
+Prisma Ore,Resource,1,Gold,1000,Weekly,5
+Lotus Flower,Resource,1,Gold,1000,Weekly,5
+Iridian Scale Leather,Resource,1,Gold,1000,Weekly,5
+Silver Wool,Resource,1,Gold,1000,Weekly,5
+`

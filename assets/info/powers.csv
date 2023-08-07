@@ -1,0 +1,6 @@
+module.exports = `power,slug,icon,description
+"Dimension Breaker","dimension-breaker","dimension-breaker.png","Reduces Expedition Mission duration by 10%, Increases Mineral Gathering by 50%, Increases Base Luck Rate by 48%"
+"Energenesis","energenesis","energenesis.png","Increases Expedition Mission experience by 10%, Increases Plant Gathering by 50%, Increases Base Luck Rate by 48%"
+"Physical Augmenter","physical-augmenter","physical-augmenter.png","Reduces Effiency consumption by 20%, Increases Animal Gathering by 50%, Increases Luck Bonus by 48%"
+"Terraformer","terraformer","terraformer.png","Increases Expedition Mission Gold by 10%, Increases Plant, Mineral, and Animal Gathering by 15%, Increases Base Luck Rate by 48%"
+`

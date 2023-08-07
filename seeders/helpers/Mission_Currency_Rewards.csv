@@ -1,0 +1,42 @@
+﻿module.exports = `Type,Location,Secondary_Branch,Tier,Currency_Cosmic,Currency_Ascension_lowest,Currency_Ascension_highest
+Expedition,Lost City of Lasol,Gold,1,4,6,10
+Expedition,Prism Valley,Experience,1,4,6,10
+Expedition,Crystal Forest,Gold & Experience,1,10,15,25
+Expedition,Azulhenge,Resource (Mineral),1,6,9,15
+Expedition,Crusader Village,Resource (Plant),1,6,9,15
+Expedition,Rainfall Village,Resource (Animal),1,6,9,15
+Expedition,Lost City of Lasol,Gold,2,4,8,12
+Expedition,Prism Valley,Experience,2,4,8,12
+Expedition,Crystal Forest,Gold & Experience,2,10,20,30
+Expedition,Azulhenge,Resource (Mineral),2,6,12,18
+Expedition,Crusader Village,Resource (Plant),2,6,12,18
+Expedition,Rainfall Village,Resource (Animal),2,6,12,18
+Expedition,Lost City of Lasol,Gold,3,4,10,14
+Expedition,Prism Valley,Experience,3,4,10,14
+Expedition,Crystal Forest,Gold & Experience,3,10,25,35
+Expedition,Azulhenge,Resource (Mineral),3,6,15,21
+Expedition,Crusader Village,Resource (Plant),3,6,15,21
+Expedition,Rainfall Village,Resource (Animal),3,6,15,21
+Expedition,Lost City of Lasol,Gold,4,4,12,16
+Expedition,Prism Valley,Experience,4,4,12,16
+Expedition,Crystal Forest,Gold & Experience,4,10,30,40
+Expedition,Azulhenge,Resource (Mineral),4,6,18,24
+Expedition,Crusader Village,Resource (Plant),4,6,18,24
+Expedition,Rainfall Village,Resource (Animal),4,6,18,24
+Expedition,Iridian River,Evolution,1,10,15,25
+Expedition,Evergreen Village,Legendary,1,8,12,20
+Expedition,Waterfall Village,Legendary,1,8,12,20
+Expedition,Iridian Village,Legendary,1,8,12,20
+Expedition,Iridian River,Evolution,2,10,20,30
+Expedition,Evergreen Village,Legendary,2,8,16,24
+Expedition,Waterfall Village,Legendary,2,8,16,24
+Expedition,Iridian Village,Legendary,2,8,16,24
+Expedition,Iridian River,Evolution,3,10,25,35
+Expedition,Evergreen Village,Legendary,3,8,20,28
+Expedition,Waterfall Village,Legendary,3,8,20,28
+Expedition,Iridian Village,Legendary,3,8,20,28
+Expedition,Iridian River,Evolution,4,10,30,40
+Expedition,Evergreen Village,Legendary,4,8,24,32
+Expedition,Waterfall Village,Legendary,4,8,24,32
+Expedition,Iridian Village,Legendary,4,8,24,32
+`

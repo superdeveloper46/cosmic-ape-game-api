@@ -1,0 +1,83 @@
+[
+  {
+    "tier": 2,
+    "materials": [
+      {
+        "name": "Gold",
+        "type": "Currency",
+        "belongs_to": "Account",
+        "amount": 150000
+      },
+      {
+        "name": "Ascension",
+        "type": "Currency",
+        "belongs_to": "Character",
+        "amount": 800
+      },
+      {
+        "name": "Cosmic Stone",
+        "type": "Resource",
+        "amount": 4
+      },
+      {
+        "name": "Cosmic Artifact",
+        "type": "Resource",
+        "amount": 8
+      }
+    ]
+  },
+  {
+    "tier": 3,
+    "materials": [
+      {
+        "name": "Gold",
+        "type": "Currency",
+        "belongs_to": "Account",
+        "amount": 250000
+      },
+      {
+        "name": "Ascension",
+        "type": "Currency",
+        "belongs_to": "Character",
+        "amount": 1200
+      },
+      {
+        "name": "Cosmic Shard",
+        "type": "Resource",
+        "amount": 8
+      },
+      {
+        "name": "Cosmic Artifact",
+        "type": "Resource",
+        "amount": 16
+      }
+    ]
+  },
+  {
+    "tier": 4,
+    "materials": [
+      {
+        "name": "Gold",
+        "type": "Currency",
+        "belongs_to": "Account",
+        "amount": 500000
+      },
+      {
+        "name": "Ascension",
+        "type": "Currency",
+        "belongs_to": "Character",
+        "amount": 1600
+      },
+      {
+        "name": "Cosmic Shard",
+        "type": "Resource",
+        "amount": 20
+      },
+      {
+        "name": "Cosmic Artifact",
+        "type": "Resource",
+        "amount": 20
+      }
+    ]
+  }
+]

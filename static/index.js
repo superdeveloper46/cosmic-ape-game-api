@@ -1,0 +1,7 @@
+const STAMINA_REFRESH_DURATION = 4
+const MFA_LENGTH = 6
+
+module.exports = {
+  STAMINA_REFRESH_DURATION,
+  MFA_LENGTH,
+}
